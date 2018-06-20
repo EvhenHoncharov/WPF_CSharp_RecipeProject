@@ -1,0 +1,1 @@
+﻿to display images an internet connection is required

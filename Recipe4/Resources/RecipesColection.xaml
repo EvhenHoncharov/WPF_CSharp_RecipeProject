@@ -1,0 +1,655 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Recipe4.Resources">
+
+    <Style TargetType="{x:Type FlowDocument}">
+	
+        <Setter Property="Background" Value="LightYellow"/>
+    </Style>
+    
+    <FlowDocument x:Key="_1_Applesauce_French_Toast">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Applesauce French Toast
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+            2 eggs, 1⁄2 cup, nonfat or 1% milk, 1 teaspoon ground cinnamon, 2 teaspoons white sugar, 1⁄2 teaspoon vanilla, 1⁄4 cup unsweetened applesauce, 6 slices whole wheat bread
+            <Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image  Source="http://foodhero.org/sites/default/files/recipe-imgs/Applesauce%20French%20Toast.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>In a large mixing bowl, combine eggs, milk, cinnamon, sugar, vanilla and applesauce. Mix well.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Soak bread one slice at a time until mixture is slightly absorbed.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Lightly spray or oil a skillet or griddle. Cook over medium heat until golden brown on both sides.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Serve hot.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Refrigerate leftovers within 2 hours.</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            <Bold>Notes:</Bold>
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>To use sweetened applesauce, remove about 3/4 teaspoon of sugar from the measured amount.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Top with applesauce, fresh fruit or yogurt.</Paragraph>
+            </ListItem>
+        </List>
+
+    </FlowDocument>
+
+    <FlowDocument x:Key="_2_Banana_Oatmeal_Muffins">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Banana Oatmeal Muffins
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+            1 cup quick rolled oats,
+                1⁄4 cup milk,
+                2 eggs, lightly beaten,
+                1⁄3 cup oil,
+                1 cup mashed ripe bananas,
+                1 1⁄2 cups whole wheat flour,
+                1⁄2 cup sugar,
+                2 teaspoons baking powder,
+                1 teaspoon baking soda,
+                1⁄4 teaspoon salt
+            <Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image Source="http://foodhero.org/sites/default/files/recipe-imgs/banana_oatmeal_muffins_v.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Preheat oven to 400 degrees F. Lightly oil or spray the bottoms of 12 muffin cups.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Mix oats with milk. Stir in lightly-beaten eggs, oil and bananas. Let stand while measuring dry ingredients.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>In a separate bowl, combine dry ingredients and stir well.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Add oat mixture to dry ingredients and stir gently to moisten. Don’t overmix.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Fill muffin cups ¾ full.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Bake at 400 degrees F until golden brown and a toothpick inserted in the center comes out moist but clean, about 18 to 20 minutes.</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            <Bold>Notes:</Bold>
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>To bake as Banana Oatmeal Bread, use an 8 or 9-inch bread pan and bake at 350 degrees F for 45 to 50 minutes.</Paragraph>
+            </ListItem>
+        </List>
+
+    </FlowDocument>
+
+    <FlowDocument x:Key="_3_ButtermilkScones">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Buttermilk Scones
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+            1 cup whole wheat flour, 3⁄4 cup all-purpose flour, 1⁄3 cup sugar, 1 teaspoon baking powder, 1⁄2 teaspoon baking soda, 1⁄4 teaspoon salt, 1 cup raisins, 1⁄4 cup butter, melted, 2⁄3 cup buttermilk
+            <Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image Source="http://foodhero.org/sites/default/files/recipe-imgs/Buttermilk%20Scones.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Preheat oven to 400 degrees F.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Combine whole wheat flour, all-purpose flour, sugar, baking powder, baking soda and salt in a medium bowl. Mix well.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Add raisins and mix lightly.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>In a small bowl, combine melted butter and buttermilk. Add liquid ingredients to flour mixture; mix gently.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Spoon dough into 9 equal mounds on a greased baking sheet. Bake until well browned, 18-20 minutes.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Serve hot or at room temperature. Best eaten the same day you bake them.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Refrigerate leftovers within 2 hours.</Paragraph>
+            </ListItem>            
+        </List>
+
+        <Paragraph>
+            <Bold>Notes:</Bold>
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>Substitute vegetable oil for the butter to reduce saturated fat.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>Try other dried fruit. Sprinkle with cinnamon before baking.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>No buttermilk? Place 1 Tablespoon of lemon juice or vinegar in measuring cup and fill to the 1 cup line with milk. Stir and let set to thicken slightly.</Paragraph>
+            </ListItem>
+        </List>
+
+    </FlowDocument>
+
+	<FlowDocument x:Key="_4_FruitPizza">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Fruit Pizza
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+            1 English Muffin (try whole grain), 2 Tablespoons reduced fat or fat-free cream cheese (see notes), 2 Tablespoons sliced strawberries, 2 Tablespoons blueberries, 2 Tablespoons crushed pineapple
+            <Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image Source="http://foodhero.org/sites/default/files/recipe-imgs/Fruit%20Pizza.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Split open the English muffin and toast the halves until lightly browned.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Spread cream cheese on both halves.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Divide the fruit between the two muffin halves and arrange on top of cream cheese.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>These are best when served soon.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Refrigerate leftovers within 2 hours.</Paragraph>
+            </ListItem>           
+        </List>
+
+        <Paragraph>
+            <Bold>Notes:</Bold>
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>Use any combination of fruit for topping the pizza.</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>No cream cheese? Try peanut butter or sunflower seed butter.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Make your own whipped cream cheese for easy spreading. Use an electric hand mixer to gradually beat 4 tablespoons of milk into 8 ounces of cream cheese. To make it fruit flavored, add any chopped, soft fruit (fresh, canned, or frozen) while beating. Store in a covered container in the refrigerator. </Paragraph>
+            </ListItem>
+        </List>
+
+    </FlowDocument>
+
+	<FlowDocument x:Key="_5_MorningMuffins">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Morning Muffins
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+            1 egg, 1 cup nonfat or 1% milk, 1⁄3 cup sugar, 2 Tablespoons vegetable oil, 1⁄2 cup grated carrots (about 1 medium carrot), 1⁄2 cup raisins, 1⁄2 cup toasted walnuts (optional), 1 teaspoon vanilla, 1 1⁄2 cups flour, 1⁄2 cup old fashioned rolled oats, 1 1⁄2 teaspoons cinnamon, 1 teaspoon baking powder, 1⁄2 teaspoon baking soda, 1⁄2 teaspoon salt
+            <Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image Source="http://foodhero.org/sites/default/files/recipe-imgs/morning_muffins_v.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Preheat oven to 400 degrees. Lightly spray or oil a muffin tin with cooking spray.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>In a large bowl mix egg, milk, sugar, oil, carrots, raisins, walnuts and vanilla.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>In a seperate bowl mix flour, oatmeal, cinnamon, baking powder, baking soda and salt.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Add wet ingredients to dry ingredients and stir gently until flour is just moistened. Gently fill muffin cups about 3/4 full.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Bake for 15 minutes or until edges start to brown.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Refrigerate leftovers within 2 hours.</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            <Bold>Notes:</Bold>
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>Morning Muffins freeze well and thaw quickly.</Paragraph>
+            </ListItem>			
+        </List>
+
+    </FlowDocument>
+
+	<FlowDocument x:Key="_6_OvenFrenchToast">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Oven French Toast
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+			12 slices whole grain bread, 4 eggs or 8 egg whites, 1 cup nonfat or 1% milk, 1⁄4 cup packed brown sugar, 1 teaspoon vanilla, powdered sugar (optional)
+			<Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image Source="http://foodhero.org/sites/default/files/recipe-imgs/Oven%20French%20Toast.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Preheat oven to 325 degrees.</Paragraph>
+            </ListItem>
+			 <ListItem>
+                <Paragraph>Lightly spray a cookie sheet with sides or two 9x13 inch pans with cooking spray.</Paragraph>
+            </ListItem>
+			 <ListItem>
+                <Paragraph>Lay the slices of bread flat on the pan with the sides touching.</Paragraph>
+            </ListItem>
+			 <ListItem>
+                <Paragraph>Beat egg, milk, brown sugar, and vanilla until very well blended.</Paragraph>
+            </ListItem>
+			 <ListItem>
+                <Paragraph>Pour mixture over bread. Turn each slice over to ensure both sides are wet.</Paragraph>
+            </ListItem>
+			 <ListItem>
+                <Paragraph>Cover and refrigerate overnight or bake immediately for 30 minutes.</Paragraph>
+            </ListItem>
+			 <ListItem>
+                <Paragraph>Serve hot. Sprinkle lightly with powdered sugar (optional). Top with applesauce, fresh fruit or yogurt.</Paragraph>
+            </ListItem>
+			 <ListItem>
+                <Paragraph>Refrigerate leftovers within 2 hours.</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            <Bold>Notes:</Bold>
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>Serve with applesauce or yogurt.</Paragraph>
+            </ListItem>	
+			<ListItem>
+                <Paragraph>Add your favorite berries to the top for some color and a yummy taste!</Paragraph>
+            </ListItem>				
+        </List>
+
+    </FlowDocument>
+
+	<FlowDocument x:Key="_7_RaspberryOatmealBars">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Raspberry Oatmeal Bars
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+
+            <Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image Source="http://foodhero.org/sites/default/files/recipe-imgs/FH%20Raspberry%20Oatmeal%20Bars.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+        
+        <Paragraph>
+            Crust and topping:
+        </Paragraph>        
+        <List>
+            <ListItem>
+                <Paragraph>1⁄2 cup flour</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>1⁄4 cup brown sugar</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>1 cup quick oats</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>3 Tablespoons butter or margarine</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>2 Tablespoons applesauce</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>1 Tablespoon orange juice</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+				Filling:
+        </Paragraph>
+
+        <List>
+				<ListItem>
+					<Paragraph>1 Tablespoon flour</Paragraph>
+				</ListItem>
+				<ListItem>
+					<Paragraph>1 Tablespoon brown sugar</Paragraph>
+				</ListItem>
+				<ListItem>
+					<Paragraph>1 1⁄2 teaspoons orange juice</Paragraph>
+				</ListItem>
+				<ListItem>
+					<Paragraph>2 cups raspberries (fresh or frozen)</Paragraph>
+				</ListItem>
+        </List>			 
+        
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Preheat oven to 375 degrees. Spray or lightly oil an 8”x 8” baking pan.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Crust and topping: Mix flour and sugar in a bowl. Cut butter into mixture until crumbly. Mix in oats. Set half aside for topping.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>To remaining mixture, stir in applesauce and orange juice. Press in bottom of baking pan.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Filling: Combine flour, sugar, juice and raspberries. Mix well.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Spread filling on crust. Sprinkle with topping.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Bake 40-45 minutes. Cool. Cut into 12 bars.</Paragraph>
+            </ListItem>
+        </List>
+
+    </FlowDocument>
+	
+	<FlowDocument x:Key="_8_BakedTofu">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Baked Tofu
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+
+			 <Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image Source="http://foodhero.org/sites/default/files/recipe-imgs/baked_tofu_v_0.jpg"/>
+                </BlockUIContainer>
+            </Figure>          
+	
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>16 ounces block firm, extra firm, tofu, fresh or frozen/thawed</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            ASIAN STYLE MARINADE
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>2 Tablespoons Reduced sodium soy sauce</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>2 Tablespoons Vinegar (balsamic, cider, or rice)</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>1 Tablespoon honey or brown sugar</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>1 Tablespoon Vegetable oil or Sesame oil</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            SOY LIME STYLE MARINADE
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>1⁄3 cup Reduced sodium soy sauce</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>1⁄3 cup lime juice</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>3 Tablespoons Vegetable oil or Sesame oil</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Press tofu, and cut how you choose:  triangles, cubes, slices or sticks</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Mix marinade ingredients; add tofu; marinate for at least 30 minutes</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Drain tofu and place pieces on a baking sheet. Foil on the baking sheet makes cleanup easy.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Bake at 350 degrees until the tofu is firm and lightly browned, about 30 minutes. Turn pieces once during baking.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Refrigerate leftovers within 2 hours</Paragraph>
+            </ListItem>			
+        </List>
+
+    </FlowDocument>
+
+	<FlowDocument x:Key="_9_PastaSalad">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Pasta Salad
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+			3 cups cooked pasta, 2 Tablespoons chopped sweet onion, 1⁄4 cup chopped celery, 1⁄4 cup chopped carrots, 1⁄4 cup frozen peas, thawed, 2 Tablespoons chopped red or green bell pepper, 1 1⁄2 cups chopped ham, 1⁄2 cup cubed cheddar cheese (optional), 1⁄4 cup fat free or low fat Italian dressing
+			<Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image  Source="http://foodhero.org/sites/default/files/recipe-imgs/Pasta-Salad_1.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Combine all ingredients in a large bowl and mix well. Cover and refrigerate until ready to serve.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Refrigerate leftovers within 2 hours.</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            <Bold>Notes:</Bold>
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>Try substituting different vegetables.</Paragraph>
+            </ListItem>
+        </List>
+
+    </FlowDocument>
+
+	<FlowDocument x:Key="_10_BulgurPilaf">
+
+        <Paragraph>
+            <Bold>
+                <Italic>
+                    Bulgur Pilaf
+                </Italic>
+            </Bold>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Ingredients:</Bold>
+			2 Tablespoons oil, 1⁄2 cup chopped celery, 1 medium onion, chopped, 1 cup bulgur, uncooked, 1⁄2 teaspoon salt, 1⁄4 teaspoon pepper, 2 cups broth (beef, chicken, or vegetable) (see notes)
+			<Figure HorizontalAnchor="ColumnRight" Width="150" Margin="5">
+                <BlockUIContainer >
+                    <Image  Source="http://foodhero.org/sites/default/files/recipe-imgs/Bulgur%20Pilaf_0.jpg"/>
+                </BlockUIContainer>
+            </Figure>
+        </Paragraph>
+
+        <Paragraph>
+            <Bold>Directions:</Bold>
+        </Paragraph>
+        <List>
+            <ListItem>
+                <Paragraph>Add oil, celery, onion and bulgur to a medium skillet.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Stir constantly over medium heat (300 degrees in an electric skillet) until vegetables are tender and bulgur is golden brown.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Add seasonings and broth and bring to a boil.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Cover pan and reduce heat to low.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Simmer 15 minutes.  Liquid should be gone. Serve.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Refrigerate leftovers within 2 hours.</Paragraph>
+            </ListItem>
+        </List>
+
+        <Paragraph>
+            <Bold>Notes:</Bold>
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>Broth can be canned or made using bouillon. For each cup of broth use 1 cup very hot water and 1 teaspoon or 1 cube bouillon.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Add other vegetables such as peas, grated carrots, chopped bell peppers.</Paragraph>
+            </ListItem>
+			<ListItem>
+                <Paragraph>Try additional flavors such as dill weed, oregano, sage, marjoram, or parsley.</Paragraph>
+            </ListItem>			
+        </List>
+
+    </FlowDocument>
+
+</ResourceDictionary>
